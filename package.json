@@ -1,0 +1,19 @@
+{
+  "name": "firebase-angular-tutorial",
+  "version": "1.0.0",
+  "description": "A simple todo app with login integration through firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mkalish",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-ui-router": "^0.2.18",
+    "angularfire": "^1.2.0",
+    "todomvc-app-css": "^2.0.4",
+    "todomvc-common": "^1.0.2",
+    "ui-router": "^1.0.0-alpha.3"
+  }
+}
